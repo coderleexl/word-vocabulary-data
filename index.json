@@ -1,63 +1,63 @@
 {
   "version": "1.0.0",
   "updatedAt": "2026-05-29T13:41:20.524Z",
-  "baseUrl": "https://raw.githubusercontent.com/coderleexl/word-vocabulary-data/main",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/coderleexl/word-vocabulary-data@main",
   "books": [
     {
       "id": "book_1780054795120_e9b3pb",
-      "name": "初中英语",
+      "name": "\u521d\u4e2d\u82f1\u8bed",
       "wordCount": 3223,
       "unitCount": 33,
       "file": "junior_high.json",
-      "url": "https://raw.githubusercontent.com/coderleexl/word-vocabulary-data/main/junior_high.json"
+      "url": "https://cdn.jsdelivr.net/gh/coderleexl/word-vocabulary-data@main/junior_high.json"
     },
     {
       "id": "book_1780054795171_u7jm67",
-      "name": "高中英语",
+      "name": "\u9ad8\u4e2d\u82f1\u8bed",
       "wordCount": 6008,
       "unitCount": 61,
       "file": "senior_high.json",
-      "url": "https://raw.githubusercontent.com/coderleexl/word-vocabulary-data/main/senior_high.json"
+      "url": "https://cdn.jsdelivr.net/gh/coderleexl/word-vocabulary-data@main/senior_high.json"
     },
     {
       "id": "book_1780054795221_5k2vks",
-      "name": "四级英语",
+      "name": "\u56db\u7ea7\u82f1\u8bed",
       "wordCount": 7508,
       "unitCount": 76,
       "file": "cet4.json",
-      "url": "https://raw.githubusercontent.com/coderleexl/word-vocabulary-data/main/cet4.json"
+      "url": "https://cdn.jsdelivr.net/gh/coderleexl/word-vocabulary-data@main/cet4.json"
     },
     {
       "id": "book_1780054795259_eyqdrm",
-      "name": "六级英语",
+      "name": "\u516d\u7ea7\u82f1\u8bed",
       "wordCount": 5651,
       "unitCount": 57,
       "file": "cet6.json",
-      "url": "https://raw.githubusercontent.com/coderleexl/word-vocabulary-data/main/cet6.json"
+      "url": "https://cdn.jsdelivr.net/gh/coderleexl/word-vocabulary-data@main/cet6.json"
     },
     {
       "id": "book_1780054795307_yg6ylo",
-      "name": "考研英语",
+      "name": "\u8003\u7814\u82f1\u8bed",
       "wordCount": 9602,
       "unitCount": 97,
       "file": "graduate.json",
-      "url": "https://raw.githubusercontent.com/coderleexl/word-vocabulary-data/main/graduate.json"
+      "url": "https://cdn.jsdelivr.net/gh/coderleexl/word-vocabulary-data@main/graduate.json"
     },
     {
       "id": "book_1780054795362_wg6i5h",
-      "name": "托福英语",
+      "name": "\u6258\u798f\u82f1\u8bed",
       "wordCount": 13477,
       "unitCount": 135,
       "file": "toefl.json",
-      "url": "https://raw.githubusercontent.com/coderleexl/word-vocabulary-data/main/toefl.json"
+      "url": "https://cdn.jsdelivr.net/gh/coderleexl/word-vocabulary-data@main/toefl.json"
     },
     {
       "id": "book_1780054795394_og833n",
-      "name": "SAT英语",
+      "name": "SAT\u82f1\u8bed",
       "wordCount": 8887,
       "unitCount": 89,
       "file": "sat.json",
-      "url": "https://raw.githubusercontent.com/coderleexl/word-vocabulary-data/main/sat.json"
+      "url": "https://cdn.jsdelivr.net/gh/coderleexl/word-vocabulary-data@main/sat.json"
     }
   ]
 }
